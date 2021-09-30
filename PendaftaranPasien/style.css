@@ -1,0 +1,23 @@
+body{
+	background-image: url(img/back0.jpg);
+	font-family: sans-serif;
+}
+
+.judul{
+	text-align: center;
+	font-size: 32;
+	font-weight: normal;
+}
+
+.no{
+	text-align: center;
+	font-size: 128;
+	font-weight: bold;
+}
+
+.text{
+	font-size: 11pt;
+	float: right;
+	text-decoration: none;
+	margin: 12px;
+}
